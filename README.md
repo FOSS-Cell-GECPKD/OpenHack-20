@@ -83,9 +83,9 @@ Tech stack: Javascript, any web framework like React.js, Vue.js etc, socket.io
 
 ### Resume generator app:
 
-...
+A web app to generate resumes using tempates according to user input
 
-Tech stack: ...
+Tech stack: Javascript, any web framework like React.js, Vue.js etc, with Bootstrap or Material-UI
 
 -------
 
