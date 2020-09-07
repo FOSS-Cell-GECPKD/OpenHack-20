@@ -36,12 +36,12 @@ Tech stack: Jekyll & GitHub Pages -- or -- Django, Javascript, Postgres, Heroku,
 
 -------
 
-### Compiler with Python
+### Crafting an interpreter
 
-Students would build the Lox programming language from scratch
+Students would implement the Lox programming language from scratch
 
 Tech stack: Python
-Domain knowledge: Compilers
+Domain knowledge: Interpreters
 
 -------
 
