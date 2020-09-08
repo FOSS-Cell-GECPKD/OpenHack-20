@@ -40,8 +40,7 @@ Tech stack: Jekyll & GitHub Pages -- or -- Django, Javascript, Postgres, Heroku,
 
 Students would implement the Lox programming language from scratch
 
-Tech stack: Python
-Domain knowledge: Interpreters
+Tech stack: Python | Domain knowledge: Interpreters
 
 -------
 
@@ -49,8 +48,7 @@ Domain knowledge: Interpreters
 
 Visualisation of common/popular/interesting algorithms in a Web app, p5.js, etc. You'd get practical knowledge of how to apply algos in real life. For example, finding paths in a maze, map problems, dynamic programming problems, etc. Can be static or interactive, up to you.
 
-Tech stack: Javascript, any web framework like React.js, Vue.js etc.
-Domain knowledge: Basics of algorithms
+Tech stack: Javascript, any web framework like React.js, Vue.js etc. | Domain knowledge: Basics of algorithms
 
 -------
 
@@ -59,8 +57,7 @@ Domain knowledge: Basics of algorithms
 A beautiful visualisation of a person's life as a tree (similar to git). You can create new branches, merge branches, commit, etc.
 Interesting blog about git: https://medium.com/girl-writes-code/git-is-a-directed-acyclic-graph-and-what-the-heck-does-that-mean-b6c8dec65059
 
-Tech stack: Javascript, any web framework like React.js, Vue.js etc.
-Domain knowledge: Basics of trees (data structure), basics of git
+Tech stack: Javascript, any web framework like React.js, Vue.js etc. | Domain knowledge: Basics of trees (data structure), basics of git
 
 -------
 
@@ -68,8 +65,7 @@ Domain knowledge: Basics of trees (data structure), basics of git
 
 Hiding data in images. It would be in the form of an app with a front-end to input images and a back-end to return the processed images.
 
-Tech stack: Javascript, any web framework like React.js, Vue.js etc, Python, Flask (micro web framework for Python)
-Domain knowledge: Basics of cryptography
+Tech stack: Javascript, any web framework like React.js, Vue.js etc, Python, Flask (micro web framework for Python) | Domain knowledge: Basics of cryptography
 
 -------
 
