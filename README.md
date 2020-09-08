@@ -89,6 +89,30 @@ Tech stack: Javascript, any web framework like React.js, Vue.js etc, with Bootst
 
 -------
 
+### Website to buy/sell second-hand books:
+
+The title says it all.
+
+Tech stack: Javascript, Angular, Bootstrap, Node.js, Express.js, MongoDB
+
+-------
+
+### Self-destructing one-time play video format:
+
+A format which allows users to play the video only once, after which it self-destructs.
+
+Tech stack: C/C++
+
+-------
+
+### More ideas.....:
+
+....
+
+Tech stack: ...
+
+-------
+
 Note: You're welcome to use any language/framework you like as long as the project's goal remains the same!
 
 ## What should I do after finishing OpenHack '20?
