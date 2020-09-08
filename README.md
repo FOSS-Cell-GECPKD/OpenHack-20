@@ -65,7 +65,7 @@ Tech stack: Javascript, any web framework like React.js, Vue.js etc. | Domain kn
 
 Hiding data in images. It would be in the form of an app with a front-end to input images and a back-end to return the processed images.
 
-Tech stack: Javascript, any web framework like React.js, Vue.js etc, Python, Flask (micro web framework for Python) | Domain knowledge: Basics of cryptography
+Tech stack: Javascript, any web framework like React.js, Vue.js etc, Python, Flask (micro web framework for Python), NumPy and OpenCV can be used too | Domain knowledge: Basics of cryptography
 
 -------
 
