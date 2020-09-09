@@ -85,9 +85,9 @@ Tech stack: Javascript, any web framework like React.js, Vue.js etc, with Bootst
 
 -------
 
-### Website to buy/sell second-hand books:
+### Website-for-blood-donors-receivers:
 
-The title says it all.
+Website to identify blood donors in emergency situations.
 
 Tech stack: Javascript, Angular, Bootstrap, Node.js, Express.js, MongoDB
 
