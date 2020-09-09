@@ -24,7 +24,7 @@ OpenHack '20 is a two month program conducted at GEC Palakkad which offers stude
 
 ## How to select a project idea?
 
-Choose something you'd like to build or are passionate about. Don't go with an idea just because it uses a language/framework you already know. The program is 2 months long so you've plenty of time a new language/framework. You're also welcome to suggest your own ideas!!
+Choose something you'd like to build or are passionate about. Don't go with an project just because it uses a language/framework you already know or just because there's an 'experienced' senior in the project. The program is 2 months long so you've plenty of time a new language/framework. You're also welcome to suggest your own ideas!!
 
 ## List of project ideas
 
@@ -98,6 +98,14 @@ Tech stack: Javascript, Angular, Bootstrap, Node.js, Express.js, MongoDB
 A format which allows users to play the video only once, after which it self-destructs.
 
 Tech stack: C/C++
+
+-------
+
+### Price Tracker with Automated emails using Web crawling
+
+Price Tracker with Automated emails using Web crawling
+
+Tech stack: Python, Scrapy, maybe more
 
 -------
 
