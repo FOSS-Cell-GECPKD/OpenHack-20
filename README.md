@@ -7,7 +7,7 @@ OpenHack '20 is a two month program conducted at GEC Palakkad which offers stude
 2. Join the FOSS Cell's Gitter community chat room using your GitHub account: https://gitter.im/FOSS-Cell-GECPKD/community
 3. We'll send an invite to you by mail for joining FOSS Cell's Github org
 4. Select one or more projects you'd like to work on from the list given below
-5. Create a repository for your project at FOSS Cell's org on GitHub (we'll provide the separate Gitter chat room for your project)
+5. There are repositories for all the projects and you can join the Gitter chat room using the button in your project's readme.
 6. Get a better understanding of the git workflow
 7. Sign up for GitHub student education pack with your COLLEGE email ID: https://education.github.com/pack (free access to lot of helpful resources while you're a student)
 8. Have discussions with your team and divide the work
