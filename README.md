@@ -38,9 +38,11 @@ Tech stack: Jekyll & GitHub Pages -- or -- Django, Javascript, Postgres, Heroku,
 
 ### Crafting an interpreter
 
-Students would implement the Lox programming language from scratch
+Ever wondered how the code you wrote is understood by a dumb machine ? Is that black magic? Let's find out. Plox is an attempt to port and improve Jlox an interpreter for Lox language. Compiler/Interpreter is a mix of both theory and practice, so building a compiler/interpreter is a good exercise to expand your knowledge. 
 
-Tech stack: Python | Domain knowledge: Interpreters
+For more info about [Lox](https://craftinginterpreters.com/)
+
+Tech stack: Python | Domain knowledge: Basics of interpreters/Compilers (No worries, we can learn along!)
 
 -------
 
