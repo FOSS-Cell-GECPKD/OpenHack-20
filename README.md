@@ -24,7 +24,7 @@ OpenHack '20 is a two month program conducted at GEC Palakkad which offers stude
 
 ## How to select a project idea?
 
-Choose something you'd like to build or are passionate about. Don't go with an project just because it uses a language/framework you already know or just because there's an 'experienced' senior in the project. The program is 2 months long so you've plenty of time a new language/framework. You're also welcome to suggest your own ideas!!
+Choose something you'd like to build or are passionate about. Don't go with a project just because it uses a language/framework you already know or just because there's an 'experienced' senior in the project. The program is 2 months long so you've plenty of time a new language/framework. You're also welcome to suggest your own ideas!!
 
 ## List of project ideas
 
