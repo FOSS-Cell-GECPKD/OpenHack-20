@@ -111,6 +111,14 @@ Tech stack: Python, Scrapy, maybe more
 
 -------
 
+### P2P-file-transfer
+
+Decentralised file sharing
+
+Tech stack: Python, maybe more
+
+-------
+
 ### More ideas.....:
 
 ....
