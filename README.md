@@ -20,7 +20,7 @@ OpenHack '20 is a two month program conducted at GEC Palakkad which offers stude
 2. GitHub flow: https://guides.github.com/introduction/flow/
 3. Version control with git: https://www.udacity.com/course/version-control-with-git--ud123
 4. How to make a PR (pull request): https://www.youtube.com/watch?v=cysuuUtbC6E
-5. Practice git commands: https://github.com/firstcontributions/first-contributions
+5. Practice git commands: https://github.com/FOSS-Cell-GECPKD/Hello-opensource
 
 ## How to select a project idea?
 
@@ -28,7 +28,7 @@ Choose something you'd like to build or are passionate about. Don't go with a pr
 
 ## List of project ideas
 
-### Blog for the FOSS Cell
+### [Blog for the FOSS Cell](https://github.com/FOSS-Cell-GECPKD/foss-blog)
 
 A blog mainly for freshers (1st year students) at our college to make them aware of good CSE opportunities, things they could do/shouldn't do to become better at CSE, communities and all sorts of things which a CSE junior would find helpful.
 
@@ -36,7 +36,7 @@ Tech stack: Jekyll & GitHub Pages -- or -- Django, Javascript, Postgres, Heroku,
 
 -------
 
-### Crafting an interpreter
+### [Crafting an interpreter](https://github.com/FOSS-Cell-GECPKD/interpreter)
 
 Ever wondered how the code you wrote is understood by a dumb machine ? Is that black magic? Let's find out. Plox is an attempt to port and improve Jlox an interpreter for Lox language. Compiler/Interpreter is a mix of both theory and practice, so building a compiler/interpreter is a good exercise to expand your knowledge. 
 
@@ -46,7 +46,7 @@ Tech stack: Python | Domain knowledge: Basics of interpreters/Compilers (No worr
 
 -------
 
-### Algorithms Visualizer
+### [Algorithms Visualizer](https://github.com/FOSS-Cell-GECPKD/algo-vis)
 
 Visualisation of common/popular/interesting algorithms in a Web app, p5.js, etc. You'd get practical knowledge of how to apply algos in real life. For example, finding paths in a maze, map problems, dynamic programming problems, etc. Can be static or interactive, up to you.
 
@@ -54,16 +54,16 @@ Tech stack: Javascript, any web framework like React.js, Vue.js etc. | Domain kn
 
 -------
 
-### Lifetree:
+### [Lifetree](https://github.com/FOSS-Cell-GECPKD/Lifetree)
 
 A beautiful visualisation of a person's life as a tree (similar to git). You can create new branches, merge branches, commit, etc.
 Interesting blog about git: https://medium.com/girl-writes-code/git-is-a-directed-acyclic-graph-and-what-the-heck-does-that-mean-b6c8dec65059
 
-Tech stack: Javascript, any web framework like React.js, Vue.js etc. | Domain knowledge: Basics of trees (data structure), basics of git
+Tech stack: gitgraph.js, Javascript, any web framework like React.js, Vue.js etc. | Domain knowledge: basics of git
 
 -------
 
-### Image steganography app:
+### [Image steganography app](https://github.com/FOSS-Cell-GECPKD/image-stego)
 
 Hiding data in images. It would be in the form of an app with a front-end to input images and a back-end to return the processed images.
 
@@ -71,7 +71,7 @@ Tech stack: Javascript, any web framework like React.js, Vue.js etc, Python, Fla
 
 -------
 
-### Real-time chat app:
+### [Real-time chat app](https://github.com/FOSS-Cell-GECPKD/chat-app)
 
 A web app using sockets to implement real-time communication
 
@@ -79,7 +79,7 @@ Tech stack: Javascript, any web framework like React.js, Vue.js etc, socket.io
 
 -------
 
-### Resume generator app:
+### [Resume generator app](https://github.com/FOSS-Cell-GECPKD/Resume-generator)
 
 A web app to generate resumes using tempates according to user input
 
@@ -87,7 +87,7 @@ Tech stack: Javascript, any web framework like React.js, Vue.js etc, with Bootst
 
 -------
 
-### Website-for-blood-donors-receivers:
+### [Website-for-blood-donors-receivers](https://github.com/FOSS-Cell-GECPKD/Website-for-blood-donors-receivers)
 
 Website to identify blood donors in emergency situations.
 
@@ -95,7 +95,7 @@ Tech stack: Javascript, Angular, Bootstrap, Node.js, Express.js, MongoDB
 
 -------
 
-### Self-destructing one-time play video format:
+### [Self-destructing one-time play video format](https://github.com/FOSS-Cell-GECPKD/One-time-play-video-format)
 
 A format which allows users to play the video only once, after which it self-destructs.
 
@@ -103,7 +103,7 @@ Tech stack: C/C++
 
 -------
 
-### Price Tracker with Automated emails using Web crawling
+### [Price Tracker](https://github.com/FOSS-Cell-GECPKD/Price-Tracker)
 
 Price Tracker with Automated emails using Web crawling
 
@@ -111,7 +111,7 @@ Tech stack: Python, Scrapy, maybe more
 
 -------
 
-### P2P-file-transfer
+### [P2P-file-transfer](https://github.com/FOSS-Cell-GECPKD/P2P-file-transfer)
 
 Decentralised file sharing
 
