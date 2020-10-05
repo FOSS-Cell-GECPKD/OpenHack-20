@@ -79,11 +79,11 @@ Tech stack: Javascript, any web framework like React.js, Vue.js etc, socket.io
 
 -------
 
-### [Resume generator app](https://github.com/FOSS-Cell-GECPKD/Resume-generator)
+### [DevPad](https://github.com/FOSS-Cell-GECPKD/DevPad)
 
-A web app to generate resumes using tempates according to user input
+A web app/blog where users can sign up and post HTML-based content
 
-Tech stack: Javascript, any web framework like React.js, Vue.js etc, with Bootstrap or Material-UI
+Tech stack: Javascript, React.js, MongoDB, Express.js, Material UI
 
 -------
 
