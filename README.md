@@ -12,7 +12,7 @@ OpenHack '20 is a two month program conducted at GEC Palakkad which offers stude
 7. Sign up for GitHub student education pack with your COLLEGE email ID: https://education.github.com/pack (free access to lot of helpful resources while you're a student)
 8. Have discussions with your team and divide the work
 9. Start building!
-10. Attend weekly meetings with all OpenHack '20 participants to discuss your progress
+10. Attend weekly meetings and show-and-tells with all OpenHack '20 participants to discuss your progress
 
 ## Resources to get better at git and GitHub
 
@@ -46,11 +46,11 @@ Tech stack: Python | Domain knowledge: Basics of interpreters/Compilers (No worr
 
 -------
 
-### [Algorithms Visualizer](https://github.com/FOSS-Cell-GECPKD/algo-vis)
+### [Whitespace-stego](https://github.com/FOSS-Cell-GECPKD/whitespace-stego)
 
-Visualisation of common/popular/interesting algorithms in a Web app, p5.js, etc. You'd get practical knowledge of how to apply algos in real life. For example, finding paths in a maze, map problems, dynamic programming problems, etc. Can be static or interactive, up to you.
+An app to encrypt your text messages into whitespaces and then decrypt it later on.
 
-Tech stack: Javascript, any web framework like React.js, Vue.js etc. | Domain knowledge: Basics of algorithms
+Tech stack: Javascript, React.js, etc.
 
 -------
 
@@ -84,14 +84,6 @@ Tech stack: Javascript, any web framework like React.js, Vue.js etc, socket.io
 A web app/blog where users can sign up and post HTML-based content
 
 Tech stack: Javascript, React.js, MongoDB, Express.js, Material UI
-
--------
-
-### [Website-for-blood-donors-receivers](https://github.com/FOSS-Cell-GECPKD/Website-for-blood-donors-receivers)
-
-Website to identify blood donors in emergency situations.
-
-Tech stack: Javascript, Angular, Bootstrap, Node.js, Express.js, MongoDB
 
 -------
 
