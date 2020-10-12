@@ -95,6 +95,14 @@ Tech stack: C/C++
 
 -------
 
+### [Today](https://github.com/FOSS-Cell-GECPKD/Today)
+
+A simple personal daily journal and social platform
+
+Tech stack: Javascript, React.js, MongoDB
+
+-------
+
 ### [Price Tracker](https://github.com/FOSS-Cell-GECPKD/Price-Tracker)
 
 Price Tracker with Automated emails using Web crawling
