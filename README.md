@@ -63,6 +63,14 @@ Tech stack: gitgraph.js, Javascript, any web framework like React.js, Vue.js etc
 
 -------
 
+### [Brick Breaker](https://github.com/FOSS-Cell-GECPKD/brick-breaker)
+
+Brick Breaker....
+
+Tech stack: Java....
+
+-------
+
 ### [Image steganography app](https://github.com/FOSS-Cell-GECPKD/image-stego)
 
 Hiding data in images. It would be in the form of an app with a front-end to input images and a back-end to return the processed images.
