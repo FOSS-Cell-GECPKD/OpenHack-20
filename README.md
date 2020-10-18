@@ -22,6 +22,10 @@ OpenHack '20 is a two month program conducted at GEC Palakkad which offers stude
 4. How to make a PR (pull request): https://www.youtube.com/watch?v=cysuuUtbC6E
 5. Practice git commands: https://github.com/FOSS-Cell-GECPKD/Hello-opensource
 
+## GitHub Workflow Live Demo by [@BreadGenie](https://github.com/BreadGenie)
+
+Video: https://www.youtube.com/watch?v=5pPFnuzHYdI
+
 ## How to select a project idea?
 
 Choose something you'd like to build or are passionate about. Don't go with a project just because it uses a language/framework you already know or just because there's an 'experienced' senior in the project. The program is 2 months long so you've plenty of time to learn a new language/framework. You're also welcome to suggest your own ideas!!
