@@ -7,7 +7,7 @@ The best way to get started would be to check out https://summerofcode.withgoogl
 2. Select 1-3 orgs you find interesting and which use tech/languages/skills you've or can be learnt in 1-3 months
 3. Fork this repo, clone it and create `your_name_here.md` file inside the `GSoC-21` folder. For example: `Anand.md`
 
-Inside the file, enter the following details for each of your chosen orgs:
+Inside the file, enter the following details:
 
 - Organisation name
 - Relevant tech/languages/skills involved at this org
@@ -20,4 +20,4 @@ Inside the file, enter the following details for each of your chosen orgs:
 - Any issues opened? (If yes, provide links to the issues)
 - Anything else you want to mention/ask?
 
-Once you've added all the details, open a PR and we'll check it out and get back to you.
+Once you've added the details, open a PR and we'll check it out and get back to you. The PR is to track your goals and progress so it won't be merged. You can edit your file with updates or add more organisations and push to your PR.
