@@ -1,5 +1,5 @@
 # OpenHack '20
-OpenHack '20 is a two month program conducted at GEC Palakkad which offers students an opportunity to build open source projects under the FOSS Cell. Students get to learn the git workflow, new languages/frameworks, improve leadership and collaboration skills while following best open source practices. This will also help them prepare for programs like Google Summer of Code and the MLH Fellowship.
+OpenHack '20 is a three month program conducted at GEC Palakkad which offers students an opportunity to build open source projects under the FOSS Cell. Students get to learn the git workflow, new languages/frameworks, improve leadership and collaboration skills while following best open source practices. This will also help them prepare for programs like Google Summer of Code and the MLH Fellowship.
 
 ## How to participate?
 
@@ -24,7 +24,7 @@ OpenHack '20 is a two month program conducted at GEC Palakkad which offers stude
 
 ## GitHub Workflow Live Demo by [@BreadGenie](https://github.com/BreadGenie)
 
-Video: https://www.youtube.com/watch?v=5pPFnuzHYdI
+Video: https://www.youtube.com/watch?v=Z1G_pR3TooQ
 
 ## How to select a project idea?
 
@@ -153,6 +153,8 @@ Note: You're welcome to use any language/framework you like as long as the proje
 
 Congratulations!! You can find existing open source projects in the fields you're interested in and try contributing. Try exploring projects on GitHub or check out organisations participating in GSoC. Most of the projects would have issues labeled 'beginner-friendly-issues' or 'good-first-issues'.
 
+If you're trying for GSoC '21, check out the [GSoC '21](https://github.com/FOSS-Cell-GECPKD/OpenHack-20/tree/master/GSoC-21) folder too.
+
 ## Few ways of contributing to existing projects:
 
 1. Check out good-first-issues
@@ -165,6 +167,12 @@ Congratulations!! You can find existing open source projects in the fields you'r
 
 1. Google Summer of Code: https://summerofcode.withgoogle.com/
 2. MLH Fellowship: https://fellowship.mlh.io/
+3. Outreachy: https://www.outreachy.org/
+4. CommunityBridge: https://communitybridge.org/
+
+## Check us out on YouTube!
+
+OpenHack participants attend weekly stand-ups, host workshops and more: https://www.youtube.com/channel/UCWFTHKmCRTlBx-XWhHuGSKg
 
 -------
 
