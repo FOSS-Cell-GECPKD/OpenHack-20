@@ -11,7 +11,6 @@ Inside the file, enter the following details:
 
 - Organisation name
 - Relevant tech/languages/skills involved at this org
-- Between 1 and 10, how competent are you presently to contribute to the org?
 - Why do you want to apply for this organization? (min: 30 words)
 - How many hours per week are you putting in learning and contributing to the org?
 - Will you keep contributing to this org if you aren't selected for GSoC '21?
