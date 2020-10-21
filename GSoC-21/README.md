@@ -16,5 +16,8 @@ Inside the file, enter the following details for each of your chosen orgs:
 - How many hours per week are you putting in learning and contributing to the org?
 - Will you keep contributing to this org if you aren't selected for GSoC '21?
 - If you're selected in this org for GSoC '21, will you keep contributing after GSoC is over?
+- Any PRs opened? (If yes, provide links to your PRs)
+- Any issues opened? (If yes, provide links to the issues)
+- Anything else you want to mention/ask?
 
 Once you've added all the details, open a PR and we'll check it out and get back to you.
