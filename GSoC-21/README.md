@@ -1,5 +1,5 @@
 # Getting started for GSoC '21
-The best way to get started would be to check out https://summerofcode.withgoogle.com/ thoroughly, especially the FAQ and resources sections. 
+The best way to get started would be to check out their [site](https://summerofcode.withgoogle.com/) thoroughly, especially the FAQ, resources and [advices](https://developers.google.com/open-source/gsoc/help/student-advice) sections. 
 
 ## Instructions
 
