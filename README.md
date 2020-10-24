@@ -153,8 +153,6 @@ Note: You're welcome to use any language/framework you like as long as the proje
 
 Congratulations!! You can find existing open source projects in the fields you're interested in and try contributing. Try exploring projects on GitHub or check out organisations participating in GSoC. Most of the projects would have issues labeled 'beginner-friendly-issues' or 'good-first-issues'.
 
-If you're trying for GSoC '21, check out the [GSoC '21](https://github.com/FOSS-Cell-GECPKD/OpenHack-20/tree/master/GSoC-21) folder too.
-
 ## Few ways of contributing to existing projects:
 
 1. Check out good-first-issues
