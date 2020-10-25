@@ -174,7 +174,7 @@ OpenHack participants attend weekly stand-ups, host workshops and more: https://
 
 -------
 
-Top 3 contributors would be awarded and everyone who successfully completes their projects while following good coding & collaboration practices would be rewarded with certificates for their invaluable open source contributions. The top 3 students would be judged on criterias like quality of contributions, good communication, helping others, contributing to existing open source projects, etc.
+Top 3 contributors would be awarded and everyone who successfully completes their projects while following the suggested best coding & collaboration practices would be rewarded with certificates for their invaluable open source contributions. The top 3 students would be judged on criterias like quality of contributions, good communication, helping others, contributing to existing open source projects, etc.
 
 For doubts, feel free to contact [@AnandBaburajan](https://github.com/anandbaburajan/) (Anand Baburajan) or  [@twentyse7en](https://github.com/twentyse7en/)  (Abijith Bahuleyan) at Gitter.
 
