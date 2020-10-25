@@ -30,7 +30,7 @@ Video: https://www.youtube.com/watch?v=Z1G_pR3TooQ
 
 Choose something you'd like to build or are passionate about. Don't go with a project just because it uses a language/framework you already know or just because there's an 'experienced' senior in the project. The program is 2 months long so you've plenty of time to learn a new language/framework. You're also welcome to suggest your own ideas!!
 
-## List of project
+## List of projects
 
 ### [Blog for the FOSS Cell](https://github.com/FOSS-Cell-GECPKD/foss-blog)
 
