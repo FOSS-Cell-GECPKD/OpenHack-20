@@ -10,7 +10,7 @@ OpenHack '20 is a three month program conducted at GEC Palakkad which offers stu
 5. There are repositories for all the projects and you can join the Gitter chat room using the button in your project's readme.
 6. Select the maintainer of your project from your team and let us know
 7. Sign up for GitHub student education pack with your COLLEGE email ID: https://education.github.com/pack (free access to lot of helpful resources while you're a student)
-8. Have discussions with your team and divide the work
+8. Have discussions with your team in your Gitter chatrooms
 9. Start building!
 10. Attend weekly meetings and show-and-tells with all OpenHack '20 participants to discuss your progress
 
@@ -174,7 +174,7 @@ OpenHack participants attend weekly stand-ups, host workshops and more: https://
 
 -------
 
-Top 3 contributors would be awarded and everyone who successfully completes their projects would be rewarded with certificates for their invaluable open source contributions. The top 3 students would be judged on criterias like quality of contributions, good communication, helping others, contributing to existing open source projects, etc.
+Top 3 contributors would be awarded and everyone who successfully completes their projects while following good coding & collaboration practices would be rewarded with certificates for their invaluable open source contributions. The top 3 students would be judged on criterias like quality of contributions, good communication, helping others, contributing to existing open source projects, etc.
 
 For doubts, feel free to contact [@AnandBaburajan](https://github.com/anandbaburajan/) (Anand Baburajan) or  [@twentyse7en](https://github.com/twentyse7en/)  (Abijith Bahuleyan) at Gitter.
 
