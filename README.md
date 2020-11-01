@@ -33,24 +33,6 @@ Choose something you'd like to build or are passionate about. Don't go with a pr
 
 ## List of projects
 
-### [Blog for the FOSS Cell](https://github.com/FOSS-Cell-GECPKD/foss-blog)
-
-A blog mainly for freshers (1st year students) at our college to make them aware of good CSE opportunities, things they could do/shouldn't do to become better at CSE, communities and all sorts of things which a CSE junior would find helpful.
-
-Tech stack: Jekyll & GitHub Pages -- or -- Django, Javascript, Postgres, Heroku, any web framework like React.js, Vue.js etc (if feasible)
-
--------
-
-### [Crafting an interpreter](https://github.com/FOSS-Cell-GECPKD/interpreter)
-
-Ever wondered how the code you wrote is understood by a dumb machine ? Is that black magic? Let's find out. Plox is an attempt to port and improve Jlox an interpreter for Lox language. Compiler/Interpreter is a mix of both theory and practice, so building a compiler/interpreter is a good exercise to expand your knowledge. 
-
-For more info about [Lox](https://craftinginterpreters.com/)
-
-Tech stack: Python | Domain knowledge: Basics of interpreters/Compilers (No worries, we can learn along!)
-
--------
-
 ### [Whitespace-stego](https://github.com/FOSS-Cell-GECPKD/whitespace-stego)
 
 An app to encrypt your text messages into whitespaces and then decrypt it later on.
@@ -68,11 +50,11 @@ Tech stack: gitgraph.js, Javascript, any web framework like React.js, Vue.js etc
 
 -------
 
-### [Brick Breaker](https://github.com/FOSS-Cell-GECPKD/brick-breaker)
+### [P2P-file-transfer](https://github.com/FOSS-Cell-GECPKD/P2P-file-transfer)
 
-Brick Breaker....
+Decentralised file sharing
 
-Tech stack: Java....
+Tech stack: Python, maybe more
 
 -------
 
@@ -108,6 +90,14 @@ Tech stack: C/C++
 
 -------
 
+### [Brick Breaker](https://github.com/FOSS-Cell-GECPKD/brick-breaker)
+
+Brick Breaker....
+
+Tech stack: Java....
+
+-------
+
 ### [PDF Converter](https://github.com/FOSS-Cell-GECPKD/PDF-converter)
 
 A tool which lets you convert text, image and HTML into PDFs
@@ -124,19 +114,29 @@ Tech stack: Javascript, React.js, MongoDB
 
 -------
 
+### [Blog for the FOSS Cell](https://github.com/FOSS-Cell-GECPKD/foss-blog)
+
+A blog mainly for freshers (1st year students) at our college to make them aware of good CSE opportunities, things they could do/shouldn't do to become better at CSE, communities and all sorts of things which a CSE junior would find helpful.
+
+Tech stack: Jekyll & GitHub Pages -- or -- Django, Javascript, Postgres, Heroku, any web framework like React.js, Vue.js etc (if feasible)
+
+-------
+
+### [Crafting an interpreter](https://github.com/FOSS-Cell-GECPKD/interpreter)
+
+Ever wondered how the code you wrote is understood by a dumb machine ? Is that black magic? Let's find out. Plox is an attempt to port and improve Jlox an interpreter for Lox language. Compiler/Interpreter is a mix of both theory and practice, so building a compiler/interpreter is a good exercise to expand your knowledge. 
+
+For more info about [Lox](https://craftinginterpreters.com/)
+
+Tech stack: Python | Domain knowledge: Basics of interpreters/Compilers (No worries, we can learn along!)
+
+-------
+
 ### [Price Tracker](https://github.com/FOSS-Cell-GECPKD/Price-Tracker)
 
 Price Tracker with Automated emails using Web crawling
 
 Tech stack: Python, Scrapy, maybe more
-
--------
-
-### [P2P-file-transfer](https://github.com/FOSS-Cell-GECPKD/P2P-file-transfer)
-
-Decentralised file sharing
-
-Tech stack: Python, maybe more
 
 -------
 
