@@ -44,7 +44,7 @@ Tech stack: Javascript, React.js, etc.
 ### [Lifetree](https://github.com/FOSS-Cell-GECPKD/Lifetree)
 
 A beautiful visualisation of a person's life as a tree (similar to git). You can create new branches, merge branches, commit, etc.
-Interesting blog about git: https://medium.com/girl-writes-code/git-is-a-directed-acyclic-graph-and-what-the-heck-does-that-mean-b6c8dec65059
+[Here's](https://medium.com/girl-writes-code/git-is-a-directed-acyclic-graph-and-what-the-heck-does-that-mean-b6c8dec65059) an interesting blog about git.
 
 Tech stack: gitgraph.js, Javascript, any web framework like React.js, Vue.js etc. | Domain knowledge: basics of git
 
