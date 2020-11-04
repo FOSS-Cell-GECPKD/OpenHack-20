@@ -82,14 +82,6 @@ Tech stack: Javascript, React.js, MongoDB, Express.js, Material UI
 
 -------
 
-### [Self-destructing one-time play video format](https://github.com/FOSS-Cell-GECPKD/One-time-play-video-format)
-
-A format which allows users to play the video only once, after which it self-destructs.
-
-Tech stack: C/C++
-
--------
-
 ### [Brick Breaker](https://github.com/FOSS-Cell-GECPKD/brick-breaker)
 
 Brick Breaker....
