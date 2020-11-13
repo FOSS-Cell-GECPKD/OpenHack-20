@@ -90,14 +90,6 @@ Tech stack: Java....
 
 -------
 
-### [PDF Converter](https://github.com/FOSS-Cell-GECPKD/PDF-converter)
-
-A tool which lets you convert text, image and HTML into PDFs
-
-Tech stack: Java
-
--------
-
 ### [Today](https://github.com/FOSS-Cell-GECPKD/Today)
 
 A simple personal daily journal and social platform
