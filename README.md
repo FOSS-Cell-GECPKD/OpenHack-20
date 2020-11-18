@@ -5,14 +5,14 @@ OpenHack '20 is a three month program conducted at GEC Palakkad which offers stu
 ## How to participate?
 
 1. Create a GitHub account
-2. Join the [FOSS Cell's Gitter chat room](https://gitter.im/FOSS-Cell-GECPKD/community) using your GitHub account
-3. Join the OpenHack '20 WhatsApp/Telegram group
-4. We'll send an invite to you by mail for joining FOSS Cell's Github org
-5. Select one or more projects you'd like to work on from the list given below (you can also suggest a new idea)
-6. We'll create repositories for all the projects. Join your Gitter chatroom using the button in your project's readme
-7. Select the maintainer of your project from your team and let us know
-8. Sign up for [GitHub student education pack](https://education.github.com/pack) with your COLLEGE email ID: (free access to lot of helpful resources)
-9. Have discussions with your team in your Gitter chatrooms and start building!
+2. Join [FOSS Cell's Gitter chat room](https://gitter.im/FOSS-Cell-GECPKD/community) using your GitHub account and the OpenHack '20 group.
+3. We'll send an invite to you by mail for joining FOSS Cell's Github org
+4. Select one or more projects you'd like to work on from the list given below (you can also suggest a new idea)
+5. We'll create repositories for all the projects. Join your Gitter chatroom using the button in your project's readme
+6. Select the maintainer of your project from your team and let us know
+7. Sign up for [GitHub student education pack](https://education.github.com/pack) with your COLLEGE email ID: (free access to lot of helpful resources)
+8. Have discussions with your team in your Gitter chatrooms and start building!
+9. Follow best practices ([example](https://github.com/FOSS-Cell-GECPKD/brick-breaker/issues/4))
 10. Attend weekly meetings and show-and-tells with all OpenHack '20 participants to discuss your progress
 
 ## Resources to get better at git and GitHub
