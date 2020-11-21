@@ -1,6 +1,6 @@
 ![image](https://raw.githubusercontent.com/FOSS-Cell-GECPKD/OpenHack-20/master/openhack-banner.png)
 
-OpenHack '20 is a 3-month program (5 Sep - 21 Nov) conducted at GEC Palakkad which offers students an opportunity to build open source projects under the FOSS Cell. Students get to learn the git workflow, new languages/frameworks, improve leadership and collaboration skills while following best coding and open-source practices. This will also help them prepare for programs like Google Summer of Code and the MLH Fellowship.
+OpenHack '20 is a program conducted at GEC Palakkad which offers students an opportunity to build open-source projects at the FOSS Cell under the guidance of mentors. Students get to learn the git workflow, new languages/frameworks, improve leadership and collaboration skills while following best coding and open-source practices.
 
 ## How to participate?
 
