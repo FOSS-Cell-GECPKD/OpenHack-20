@@ -9,11 +9,11 @@
 ## Cohort 1
 
 * [Program Overview](cohort-1/program-overview.md)
+* [Projects](cohort-1/projects.md)
 
 ---
 
 * [Resources](resources.md)
 * [Communication](communication.md)
 * [Post OpenHack TODO List](post-openhack-todo-list.md)
-* [FAQ](faq.md)
 
