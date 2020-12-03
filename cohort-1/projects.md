@@ -93,7 +93,7 @@ A tool which lets you share files over a network \(currently local area only\)
 
 **Link:** [https://github.com/FOSS-Cell-GECPKD/P2P-file-transfer](https://github.com/FOSS-Cell-GECPKD/P2P-file-transfer)  
 **Tech used:** Python, sockets, etc.  
-**Made by:** [Sankar Vinayak](https://github.com/sankarvinayak) and [Muhammed Rizal](https://github.com/MUHAMMEDRIZALKE)
+**Contributors:** [Sankar Vinayak](https://github.com/sankarvinayak) and [Muhammed Rizal](https://github.com/MUHAMMEDRIZALKE)
 {% endtab %}
 {% endtabs %}
 
@@ -103,7 +103,7 @@ An app which monitors, predicts and compares the prices of products every day an
 
 **Link:** [https://github.com/FOSS-Cell-GECPKD/Price-Tracker](https://github.com/FOSS-Cell-GECPKD/Price-Tracker)  
 **Tech used:** Python, BeautifulSoup, JavaScript, React.js, etc  
-**Made by:** [Aravind K S](https://github.com/iamAravindks), [Balasubramanian T K](https://github.com/btkcodedev) and [Jithika Sagar](https://github.com/JITHIKASAGAR123)
+**Contributors:** [Aravind K S](https://github.com/iamAravindks), [Balasubramanian T K](https://github.com/btkcodedev) and [Jithika Sagar](https://github.com/JITHIKASAGAR123)
 {% endtab %}
 {% endtabs %}
 
@@ -113,7 +113,7 @@ A simple personal daily journal and social platform.
 
 **Link:** [https://github.com/FOSS-Cell-GECPKD/Today](https://github.com/FOSS-Cell-GECPKD/Today)  
 **Tech used:** JavaScript, React.js, etc.  
-**Made by:** [Abhishek Mullacka](https://github.com/abhishek-mullackal)l**,** [Rajeev R](https://github.com/Rajeev-RJ), [Aravind K S](https://github.com/iamAravindks) and [Jaison Joshi](https://github.com/jaisonjoshi)
+**Contributors:** [Abhishek Mullacka](https://github.com/abhishek-mullackal)l**,** [Rajeev R](https://github.com/Rajeev-RJ), [Aravind K S](https://github.com/iamAravindks) and [Jaison Joshi](https://github.com/jaisonjoshi)
 {% endtab %}
 {% endtabs %}
 
