@@ -1,6 +1,6 @@
 # Resources
 
-## [./missing-semester](https://missing.csail.mit.edu/)
+## ./missing-semester
 
 We recommend to check out [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/), a class taken at MIT with around nine topics which would help you "master the command-line, use a powerful text editor, use fancy features of version control systems, and much more!". It's available both as lecture notes and video recordings, so be sure to check it out!
 
