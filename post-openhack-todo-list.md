@@ -4,7 +4,7 @@ Congratulations on completing OpenHack '20! We hope you learned a lot, worked on
 
 What next?
 
-* **Update your resume and LinkedIn profile** Remember to mention "OpenHack '20 participant at &lt;project name&gt;" and put "FOSS Cell, GEC PKD" as the organisation name. If you've also been a mentor at OpenHack '20, be sure to include "OpenHack '20 mentor" too. 
+* **Update your resume and LinkedIn profile** Remember to mention "OpenHack '20 developer" as the title and "FOSS Cell, GEC PKD" as the organisation name. You should also put 2-3 points in the description about the work you did. If you've also been a mentor at OpenHack '20, be sure to include "OpenHack '20 mentor" too. 
 * **Improve your project and help out contributors** Make sure to keep your project alive by maintaining it, adding new features etc. You should also try to help out future contributors by clearing their doubts, reviewing PRs, etc. 
 * **Become a mentor and help others** You can give back to the community by helping others, getting them excited with open source, etc! You're welcome to join next time as a mentor! 
 * **Find open source projects** You can find other open source projects in the fields you're interested in and try contributing to them. You can contribute to open source projects you use, explore new projects on GitHub, etc.  Here are a few ways of contributing to existing projects:
