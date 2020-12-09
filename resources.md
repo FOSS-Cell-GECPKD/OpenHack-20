@@ -13,4 +13,5 @@ Below are a few suggested resources which would help you to get familiar with Gi
 * [GitHub workflow live demo](https://www.youtube.com/watch?v=Z1G_pR3TooQ)
 * [Repo to practice commands](https://github.com/FOSS-Cell-GECPKD/Hello-opensource)
 * [Udacity course on Git](https://www.udacity.com/course/version-control-with-git--ud123)
+* [Dangit, Git!?!](https://dangitgit.com/en)
 
