@@ -7,26 +7,5 @@ description: >-
 
 # Getting Help
 
-**Junior Mentors**
-
-| **Name** | Focus area | **Email** | Gitter |
-| :--- | :--- | :--- | :--- |
-| - | Get started with coding | [-](mailto:anandbaburajan@gmail.com) | [-](https://gitter.im/anandbaburajan) |
-| - | Get started with coding | [-](mailto:%20abijithbahuleyan@gmail.com) | - |
-
-**Mentors**
-
-| **Name** | Focus area | **Email** | Gitter |
-| :--- | :--- | :--- | :--- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
-**Program Managers**
-
-| **Name** | **Email** | Gitter |
-| :--- | :--- | :--- |
-| Anand Baburajan | [anandbaburajan@gmail.com](mailto:anandbaburajan@gmail.com) | [Link](https://gitter.im/anandbaburajan) |
-| Muhammed Suhail | [msuhailbh07@gmail.com](mailto:%20msuhailbh07@gmail.com) | [Link](https://gitter.im/BreadGenie) |
+_Coming soon..._
 
