@@ -18,7 +18,7 @@ Once you're done with the aforementioned things, you can choose your track. The 
 
 ## Alpha Track
 
-In this track, you'll build 1-2 open source projects at the FOSS Cell in a team of 2-3 students. The mentors will also review your code, suggest best practices and would be available throughout the program if you require any assistance! Going with this track would help you learn the git workflow, explore new languages, frameworks & tools, project management, improve leadership and collaboration skills while following best coding and open-source practices. You'll leave with 1-2 interesting projects and you would get to put an amazing experience on your resume! If you wish to apply for the [MLH Fellowship](https://fellowship.mlh.io/) and similar programs in the future, this track would be a good choice!
+In this track, you'll build 1-2 open source projects at the FOSS Cell in a team of 2-3 students. The mentors will also review your code, suggest best practices and would be available throughout the program if you require any assistance! Going with this track would help you learn the git workflow, explore new languages, frameworks & tools, project management, improve leadership and collaboration skills while following best coding and open-source practices. You'll leave with 1-2 interesting projects in your portfolio and you would get to put an amazing experience on your resume! If you wish to apply for the [MLH Fellowship](https://fellowship.mlh.io/) and similar programs in the future, this track would be a good choice!
 
 How to get started?
 
