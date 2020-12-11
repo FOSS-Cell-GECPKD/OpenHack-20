@@ -17,8 +17,8 @@ You can contact the junior mentors, mentors and program managers at our Discord.
 | Alwin Joseph | Mentor | Android \(Kotlin\) & C++ |
 | Anand Baburajan | Mentor | TypeScript & open source |
 | Anaswara T Rajan | Mentor | Python, Django & Databases |
-| Aravind K S | Mentor | JavaScript & React.js |
-| Athul Joshi | Mentor | Python & git |
+| Aravind K S | Mentor | JavaScript, React.js & CSS |
+| Athul Joshi | Mentor | Python, Angular & open source |
 | Vipin K P | Mentor | JavaScript, React.js & CSS |
 | Muhammed Suhail | Mentor | JavaScript, Node.js & git |
 
