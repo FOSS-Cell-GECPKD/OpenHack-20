@@ -11,10 +11,10 @@ You can contact the junior mentors, mentors and program managers at our Discord.
 
 | **Name** | Role | Focus areas |
 | :--- | :--- | :--- |
-| Aswin C G | Junior Mentor | Get started with coding, IDEs, git, GitHub, etc |
-| Rashin P | Junior Mentor | Get started with coding, IDEs, git, GitHub, etc |
+| Aswin C G | Junior Mentor | Get started with coding, editor, git, GitHub, etc |
+| Rashin P | Junior Mentor | Get started with coding, editor, git, GitHub, etc |
 | Abijith Bahuleyan | Mentor | Python & C++ |
-| Alwin Joseph | Mentor | Android & C++ |
+| Alwin Joseph | Mentor | Android \(Kotlin\) & C++ |
 | Anand Baburajan | Mentor | TypeScript & open source |
 | Anaswara T Rajan | Mentor | Python, Django & Databases |
 | Aravind K S | Mentor | JavaScript & React.js |
