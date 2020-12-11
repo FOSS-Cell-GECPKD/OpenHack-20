@@ -15,6 +15,7 @@
 
 * Inform when availability will be reduced
 * Inform if there are issues with a student \(communication, progress, etc\)
+* Provide us feedback regarding the program
 * Lead weekly stand-ups
 
 \*\*\*\*

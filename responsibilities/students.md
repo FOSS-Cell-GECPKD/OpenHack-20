@@ -10,5 +10,5 @@
 * Submit quality code
 * Keep in touch \(check your notifications on GitHub, Discord, etc at least once a day\)
 * Regularly participate in the weekly stand-ups
-* Provide us your feedback in the forms we will be sharing
+* Provide us feedback in the forms we will be sharing
 
