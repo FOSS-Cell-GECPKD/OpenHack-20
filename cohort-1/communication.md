@@ -4,3 +4,5 @@ We will be using WhatsApp for both general and off-topic chat and all the partic
 
 Your project would also have an associated Gitter chatroom integrated with the GitHub repo. For the weekly stand-ups and show-and-tells, we will be using Jitsi Meet and all the sessions would be uploaded to OpenHack's [YouTube channel](https://www.youtube.com/channel/UCWFTHKmCRTlBx-XWhHuGSKg).
 
+Please check our code of conduct [here](https://openhack.gitbook.io/openhack-20/code-of-conduct).
+

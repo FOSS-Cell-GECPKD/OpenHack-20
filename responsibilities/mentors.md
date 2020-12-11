@@ -7,9 +7,9 @@
 * Teach them how to ask good questions and get answers
 * Help them out with doubts
 * Follow best practices while reviewing their code
-* Don't merge a pull request until at least two mentors have approved the code
+* Don't merge a pull request until at least **two** mentors have approved the code
 * Suggest them good resources
-* Keep in touch \(check your notifications on GitHub, Gitter, etc at least once a day\)
+* Keep in touch \(check your notifications on GitHub, Discord, etc at least once a day\)
 
 **To program managers**
 

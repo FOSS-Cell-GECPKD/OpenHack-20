@@ -2,10 +2,10 @@
 
 **To students**
 
-* Help beginners out with common doubts \(IDEs, git, GitHub, etc\)
-* Make sure students aren't stuck, get in touch with them if they're
+* Help beginners with doubts while getting started with coding, IDEs, git, GitHub, etc
+* Make sure students aren't stuck, if they're get in touch with them
 * Give them constructive feedback, be patient and respectful
-* Keep in touch \(check your notifications on GitHub, Gitter, etc at least once a day\)
+* Keep in touch \(check your notifications on GitHub, Discord, etc at least once a day\)
 
 **To program managers**
 
