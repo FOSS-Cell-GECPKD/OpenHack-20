@@ -14,7 +14,7 @@ After our first meet, you need to:
 4. **Accept the email invitation to join** [**FOSS Cell, GEC PKD org**](https://github.com/FOSS-Cell-GECPKD) **on GitHub** That's where your projects would be hosted. 
 5. **Sign up for GitHub's** [**student education pack**](https://education.github.com/pack) ****The education pack provides free access to a lot of really helpful resources while you're a student. Make sure you use your college email ID while signing up.
 
-Once you're done with the aforementioned things, you can choose your tracks. The program is divided into two tracks: **Alpha** and **Beta**.
+Once you're done with the aforementioned things, you can choose your track. The program is divided into two tracks: **Alpha** and **Beta**.
 
 ## Alpha Track
 
