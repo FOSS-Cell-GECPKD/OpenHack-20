@@ -1,12 +1,12 @@
 ---
-description: '13th December, 2020 - 1st February, 2020'
+description: '14th December, 2020 - 1st February, 2020'
 ---
 
 # Program Overview
 
-To kickoff the program, a workshop would be hosted on 13th December which would give you an understanding on FOSS, git, GitHub, open source contributions, OpenHack and other amazing open source programs. The program managers, mentors, junior mentors and students would also introduce themselves.
+To kickoff the program, a workshop would be hosted on 14th December which would give you an understanding on FOSS, git, GitHub, open source contributions, OpenHack and other amazing open source programs. The program managers, mentors, junior mentors and students would also introduce themselves.
 
-After our first meet, you need to:
+After the workshop, you need to:
 
 1. **Make sure you have a GitHub account** We will be using GitHub for hosting the code, collaboration, reviews, etc. 
 2. **Check out this site thoroughly** Especially the [student responsibilities](https://openhack.gitbook.io/openhack-20/responsibilities/students) section and the [communication](https://openhack.gitbook.io/openhack-20/cohort-2/communication) section. You are not required to check out program details of the Cohort 1. 
