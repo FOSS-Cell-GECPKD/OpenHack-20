@@ -12,7 +12,7 @@ You can contact the junior mentors, mentors and program managers at our Discord.
 | **Name** | Role | Focus areas |
 | :--- | :--- | :--- |
 | Alwin Joseph | Mentor | C++ |
-| Anand Baburajan | Mentor | TypeScript, Python, & git |
+| Anand Baburajan | Mentor | TypeScript, NumPy, & git |
 | Anaswara T Rajan | Mentor | Python, Django & Databases |
 | Aravind K S | Mentor | JavaScript, React.js & CSS |
 | Aswin C G | Junior Mentor | Get started with coding, editor, git, GitHub, etc |
