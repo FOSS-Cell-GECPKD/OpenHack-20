@@ -20,6 +20,7 @@ You can contact the junior mentors, mentors and program managers at our Discord.
 | Dipanwita Guhathakurta | Mentor | Python, Javascript, Backend Development |
 | Hargun Kaur | Mentor | MERN stack & C++ |
 | Harshit Singh | Mentor | Flutter, Django, C++ |
+| Harshita Verma | Mentor | C++, HTML, CSS with Bootstrap |
 | Kajol Kumari | Mentor | Full stack web dev \(MEAN mostly\) & AWS |
 | Muhammed Suhail | Mentor | JavaScript, Node.js & git |
 | Rashin P | Junior Mentor | Get started with coding, editor, git, GitHub, etc |
