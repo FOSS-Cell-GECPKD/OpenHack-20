@@ -14,13 +14,17 @@ You can contact the junior mentors, mentors and program managers at our Discord.
 | Aswin C G | Junior Mentor | Get started with coding, editor, git, GitHub, etc |
 | Rashin P | Junior Mentor | Get started with coding, editor, git, GitHub, etc |
 | Abijith Bahuleyan | Mentor | Python & C++ |
-| Alwin Joseph | Mentor | Android \(Kotlin\) & C++ |
+| Alwin Joseph | Mentor | C++ |
 | Anand Baburajan | Mentor | TypeScript & open source |
 | Anaswara T Rajan | Mentor | Python, Django & Databases |
 | Aravind K S | Mentor | JavaScript, React.js & CSS |
 | Athul Joshi | Mentor | Python, Angular & open source |
-| Vipin K P | Mentor | JavaScript, React.js & CSS |
+| Hargun Kaur | Mentor | MERN stack & C++ |
+| Harshit Singh | Mentor | Flutter, Django, C++ |
+| Kajol Kumari | Mentor | Full stack web dev \(MEAN mostly\) & AWS |
 | Muhammed Suhail | Mentor | JavaScript, Node.js & git |
+| Vipin K P | Mentor | JavaScript, React.js & CSS |
+| Vishnu Sanal | Mentor | Android \(Java\) |
 
 **Program Managers**
 
