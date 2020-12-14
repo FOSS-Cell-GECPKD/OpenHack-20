@@ -9,7 +9,7 @@ To kickoff the program, a workshop would be hosted on 14th December which would 
 After the workshop, you need to:
 
 1. **Make sure you have a GitHub account** We will be using GitHub for hosting the code, collaboration, reviews, etc. 
-2. **Check out this site thoroughly** Especially the [student responsibilities](https://openhack.gitbook.io/openhack-20/responsibilities/students) section and the [communication](https://openhack.gitbook.io/openhack-20/cohort-2/communication) section. You are not required to check out program details of the Cohort 1. 
+2. **Check out this site thoroughly** Especially the [student responsibilities](https://openhack.gitbook.io/openhack-20/responsibilities/students) section and the [communication](https://openhack.gitbook.io/openhack-20/cohort-2/communication) section. 
 3. **Introduce yourself at Discord** Let everyone know your name, which semester and department you are in, your GitHub username, your place, facts about you and anything you wish to share at the \#introduce-yourself channel at our Discord! 
 4. **Accept the email invitation to join** [**FOSS Cell, GEC PKD org**](https://github.com/FOSS-Cell-GECPKD) **on GitHub** That's where your projects would be hosted. 
 5. **Sign up for GitHub's** [**student education pack**](https://education.github.com/pack) ****The education pack provides free access to a lot of really helpful resources while you're a student. Make sure you use your college email ID while signing up.
