@@ -15,7 +15,7 @@ You can contact the junior mentors, mentors and program managers at our Discord.
 | Anand Baburajan | Mentor | NumPy & TypeScript |
 | Anaswara T Rajan | Mentor | Python, Django & Databases |
 | Aravind K S | Mentor | JavaScript, React.js & CSS |
-| Aswin C G | Junior Mentor | Get started with coding, editor, git, GitHub, etc |
+| Aswin C G | Junior Mentor | Getting started with coding, editors, git, GitHub, etc |
 | Athul Joshi | Mentor | Python, Angular & git |
 | Dipanwita Guhathakurta | Mentor | Python, Javascript, Backend Development |
 | Hargun Kaur | Mentor | MERN stack & C++ |
@@ -23,10 +23,11 @@ You can contact the junior mentors, mentors and program managers at our Discord.
 | Harshita Verma | Mentor | C++, HTML, CSS with Bootstrap |
 | Kajol Kumari | Mentor | Full stack web dev \(MEAN mostly\) & AWS |
 | Muhammed Suhail | Mentor | JavaScript, Node.js & git |
-| Rashin P | Junior Mentor | Get started with coding, editor, git, GitHub, etc |
+| Rashin P | Junior Mentor | Getting started with coding, editors, git, GitHub, etc |
 | Vipin K P | Mentor | JavaScript, React.js & CSS |
 | Vishnu Sanal | Mentor | Android \(Java\) |
 | Yash Kumar Verma | Mentor | Node.js, TypeScript, React, React Native, Nest.js |
+| Yukty | Junior Mentor | Getting started with coding, editors, git, GitHub, etc |
 
 **Program Managers**
 
