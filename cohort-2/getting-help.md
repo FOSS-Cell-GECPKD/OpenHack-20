@@ -27,7 +27,7 @@ You can contact the junior mentors, mentors and program managers at our Discord.
 | Vipin K P | Mentor | JavaScript, React.js & CSS |
 | Vishnu Sanal | Mentor | Android \(Java\) |
 | Yash Kumar Verma | Mentor | Node.js, TypeScript, React, React Native, Nest.js |
-| Yukty | Junior Mentor | Getting started with coding, editors, git, GitHub, etc |
+| Yukty Khandelia | Junior Mentor | Getting started with coding, editors, git, GitHub, etc |
 
 **Program Managers**
 
