@@ -46,7 +46,7 @@ How to get started?
    * Improve the documentation which will help a lot of other people using the library/software/framework.
    * If you're using the project and need a feature, you can get in touch with the community, request for the feature and even code it up.
    * Add tests 
-3. **Read experiences of open source developers, GSoC & MLH Fellowship alumni** That's a good way of understanding how their journey was like, how they overcame challenges, etc. Here's an interesting [blog](https://www.cncf.io/spotlights/cncf-maintainer-spotlight-goutham-veeramachaneni/) you might like. 
+3. **Read experiences of open source developers, GSoC & MLH Fellowship alumni** That's a good way of understanding how their journey was like, how they overcame challenges, etc. [Here](https://www.cncf.io/spotlights/cncf-maintainer-spotlight-goutham-veeramachaneni/)'s an interesting blog you might like and [here](https://medium.com/@viveknigam3003/getting-into-gsoc-20-with-cern-hsf-by-vivek-nigam-d7ec866c0533)'s another one. 
 4. **Approach OpenHack '20 mentors at \#beta-track if you're stuck** We would be happy to help you get on track to getting your first few PRs merged! 
 5. **Stay positive**
 
