@@ -15,6 +15,7 @@ We will be using Discord for all general, off-topic chat, technical doubts and f
 * **javascript**  - doubts related to JavaScript
 * **python**  - doubts related to Python
 * **android**  - doubts related to Android
+* **flutter**  - doubts related to Flutter
 * **cpp**  - doubts related to C++
 * **off-topic** - anything unrelated to the program! :D
 
