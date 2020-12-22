@@ -23,6 +23,7 @@
 
 ---
 
+* [FAQ](faq.md)
 * [Resources](resources.md)
 * [Post OpenHack TODO List](post-openhack-todo-list.md)
 * [Code of Conduct](code-of-conduct.md)
