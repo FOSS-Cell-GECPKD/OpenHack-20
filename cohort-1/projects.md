@@ -79,7 +79,7 @@ An attempt to port and improve Jlox, an interpreter for Lox language.
 
 {% tabs %}
 {% tab title="Lifetree" %}
-An app which lets you create a beautiful visualisation of a person's life as git branches allowing the users to create new branches, merge branches, commit, etc.
+Wrapper for GitGraph.js
 
 **Link:** [https://github.com/FOSS-Cell-GECPKD/Lifetree](https://github.com/FOSS-Cell-GECPKD/Lifetree)  
 **Tech used:** JavaScript, gitgraph.js, React.js, etc  
