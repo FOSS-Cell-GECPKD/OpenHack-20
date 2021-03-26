@@ -5,6 +5,7 @@
 ## Cohort 2
 
 * [Program Overview](cohort-2/program-overview.md)
+* [Projects](cohort-2/projects.md)
 * [Communication](cohort-2/communication.md)
 * [Getting Help](cohort-2/getting-help.md)
 

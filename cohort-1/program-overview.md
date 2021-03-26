@@ -4,10 +4,6 @@ description: '5th September, 2020 - 21st November, 2020'
 
 # Program Overview
 
-{% hint style="warning" %}
-These are program details of the previous Cohort 1 \(05/09/20 - 21/11/20\)
-{% endhint %}
-
 To kickoff the program, a workshop would be hosted by Anand Baburajan and Abijith Bahuleyan on 5th September which would give you an understanding on FOSS, git, GitHub, open source contributions and OpenHack.
 
 How to participate?
