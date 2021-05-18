@@ -13,6 +13,7 @@
 
 * [Program Overview](cohort-1/program-overview.md)
 * [Projects](cohort-1/projects.md)
+* [Achievements](cohort-1/achievements.md)
 * [Communication](cohort-1/communication.md)
 * [Getting Help](cohort-1/getting-help.md)
 
