@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome!](README.md)
+* [Wall of Love](wall-of-love.md)
 
 ## Cohort 2
 
@@ -23,11 +24,10 @@
 * [Mentors](responsibilities/mentors.md)
 * [Junior Mentors](responsibilities/junior-mentors.md)
 
----
+***
 
 * [FAQ](faq.md)
 * [Resources](resources.md)
 * [Post OpenHack TODO List](post-openhack-todo-list.md)
 * [Code of Conduct](code-of-conduct.md)
 * [Contact Us](communication.md)
-
