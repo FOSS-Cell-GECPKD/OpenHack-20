@@ -8,12 +8,12 @@ description: >-
 
 {% tabs %}
 {% tab title="Your name" %}
-"Your message"
+Your message
 {% endtab %}
 {% endtabs %}
 
 {% tabs %}
 {% tab title="Your name" %}
-"Your message"
+Your message
 {% endtab %}
 {% endtabs %}
