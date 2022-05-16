@@ -13,7 +13,7 @@ I have to mention the amount of efforts Anand put into mentoring me as a beginne
 {% endtabs %}
 
 {% tabs %}
-{% tab title="Vishnu Sanal" %}
+{% tab title="Vishnu Sanal T." %}
 OpenHack - whoo, reminds me of my vulnerable, naive & indeed foolish days of S1! ... reminds me of feeling excited, that I haven't felt in a while, back then.
 
 If I talk about the ways OpenHack has helped me, it gave me much-needed guidance during my early days of college, being a newly-college-joined student, you can imagine all the overwhelms a student would face.
