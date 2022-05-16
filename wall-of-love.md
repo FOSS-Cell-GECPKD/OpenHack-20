@@ -8,13 +8,25 @@ description: >-
 
 {% tabs %}
 {% tab title="Sreelakshmi Jayarajan" %}
-I have to mention the amount of efforts Anand put into mentoring me as a beginner by having daily calls, helping me with starting up, listening patiently and helping me out every time I got really stuck. I'm grateful for the time and effort he put into making me realize my mistakes and for encouraging me to keep pushing myself to do challenging things. The constant sharing of resources, blogs, videos, his long TED talks etc., gave me a lot of exposure and I learnt a lot. I'm happy that I was able to open my first ever PR at Serenity OS without any prior experience. I wrote my first ever blog post to inspire students to contribute to open source. I built a few projects, contributed to Open-MSS⁠ and applied for GSoC there. I'm happy that I met Anand in my first year of college!
+I have to mention the amount of efforts you put into mentoring me as a beginner by having daily calls, helping me with starting up, listening patiently and helping me out every time I got really stuck. I'm grateful for the time and effort you put into making me realize my mistakes and for encouraging me to keep pushing myself to do challenging things. The constant sharing of resources, blogs, videos, your TED talks etc., gave me a lot of exposure and I learnt a lot. I'm happy that I was able to open my first ever PR at Serenity OS without any prior experience. I wrote my first ever blog post to inspire students to contribute to open source. I built a few projects, contributed to Open-MSS⁠ and applied for GSoC there. I'm happy that I met you in my first year of college!
 {% endtab %}
 {% endtabs %}
 
 {% tabs %}
-{% tab title="Your name" %}
-Your message
+{% tab title="You're Awesome :)" %}
+OpenHack - whoo, reminds me of my vulnerable, naive & indeed foolish days of S1! ... reminds me of feeling excited, that I haven't felt in a while, back then.
+
+If I talk about the ways OpenHack has helped me, it gave me much-needed guidance during my early days of college, being a newly-college-joined student, you can imagine all the overwhelms a student would face.
+
+OpenHack did offer a platform for me to help a handful of students to get started on programming, to familiarize them with different tech stacks, version control systems like Git, etc. This eventually led to the penning of [this](https://dev.to/vishnusanal/getting-started-with-software-engineering-as-a-freshman-1007) blog post, my first ever. OpenHack inspired me to focus more on my personal projects & to be further involved in OSS contributions, which led me to join [@TeamAmaze](https://github.com/TeamAmaze/) as a maintainer & later land an internship at [@RobotutorLLC](https://github.com/RobotutorLLC).
+
+But the most noteworthy element I gained from OpenHack would be the inspiration to keep on coding, to keep on writing code, no matter what!
+
+It was a privilege working (& just being!) with fellow OpenHack-ers. I still consider the contact with fellow OpenHack-ers, be it, mentors or students, to be divine & priceless.
+
+If an OpenHack happens ever again, I'd be ~the first one~ one of the first members to join it!
+
+Cheers! - Vishnu :)
 {% endtab %}
 {% endtabs %}
 
