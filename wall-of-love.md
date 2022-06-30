@@ -31,8 +31,8 @@ You're Awesome :)
 {% endtabs %}
 
 {% tabs %}
-{% tab title="Your name" %}
-Your message
+{% tab title="Aswin CG" %}
+Open Hack has been a game changer for me and I am lucky enough to to be a part of it in my freshman year. The program was intensive with practical sessions and standups helping beginners to get started in the world of open source. Open hack inspired me to work harder on my projects and gave me the idea of giving back to the community by involving in open source projects. Lucky that I got exposure to all this from S1 which gave me a perspective about the real industry standards and collaborating professionally.
 {% endtab %}
 {% endtabs %}
 
